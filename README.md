@@ -233,7 +233,7 @@ On startup the helper loads the JSON file so MQTT retained theme matches before 
 
 ## License
 
-MIT — see `package.json`.
+MIT — see `LICENSE`.
 
 ---
 
