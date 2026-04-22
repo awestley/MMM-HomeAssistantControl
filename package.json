@@ -1,0 +1,13 @@
+{
+	"name": "mmm-homeassistant-control",
+	"version": "1.0.0",
+	"description": "Home Assistant MQTT discovery and optional HTTP control for MagicMirror²",
+	"main": "MMM-HomeAssistantControl.js",
+	"scripts": {
+		"test": "echo \"No tests\" && exit 0"
+	},
+	"dependencies": {
+		"mqtt": "^5.10.3"
+	},
+	"license": "MIT"
+}
