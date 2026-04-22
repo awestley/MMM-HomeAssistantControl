@@ -19,13 +19,13 @@ Thanks for your interest in contributing!
 
 ## Submitting a pull request
 
-1. Fork the repo and create a branch from `main`:
+1. Fork the repo and create a branch from `dev`:
    ```bash
-   git checkout -b fix/short-description
+   git checkout -b fix/short-description dev
    ```
 2. Make focused, minimal commits. One logical change per PR is preferred.
 3. Update `README.md` if you add or change config options or behaviour.
-4. Open a PR against `main` and fill in the pull request template.
+4. Open a PR against `dev` and fill in the pull request template.
 
 ## Commit style
 
