@@ -7,7 +7,7 @@
 		"test": "echo \"No tests\" && exit 0"
 	},
 	"dependencies": {
-		"mqtt": "^5.15.1"
+		"mqtt": "^5.15.2"
 	},
 	"license": "MIT"
 }
